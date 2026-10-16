@@ -8,12 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+It makes the lights on when tested
 
-Explain how your project works
 
 ## How to test
+you just press test and can see lights are on
 
-Explain how to use your project
 
 ## External hardware
 
